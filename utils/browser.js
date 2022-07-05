@@ -19,4 +19,4 @@ async function startBrowser(){
     return browser;
 }
 
-module.exports = browser;
+module.exports = {startBrowser};
