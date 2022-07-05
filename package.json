@@ -1,0 +1,23 @@
+{
+  "name": "book-scraper",
+  "version": "1.0.0",
+  "description": "scrapping tutorial with node & puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jt-96/book-scraper.git"
+  },
+  "author": "jt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jt-96/book-scraper/issues"
+  },
+  "homepage": "https://github.com/jt-96/book-scraper#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19",
+    "puppeteer": "^15.3.0"
+  }
+}
